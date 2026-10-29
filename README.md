@@ -13,7 +13,7 @@ A person can be considered Ethnian if they meet any of the following. However, t
 - Solidarity: They stand with Ethnians by supporting, defending or contributing to the Ethnian culture.
 - Spreading: They contribute to spreading the Ethnian culture around the world.
 
-Primary Symbols
+## Primary Symbols
 
 - Civil/Cultural Flag: The Red and Green Banner
 - Maritime Ensign: The Red and Green Banner* (same as civil/cultural flag)
@@ -22,7 +22,7 @@ Primary Symbols
 
 _*The Ethnian traditional placement and the most recommended placement for maritime law is to place the flag on the port spreader/port yardarm, or both. The use of the flag on the starboard spreader/starboard yardarm and masthead may depend on local maritime regulations. Vessel-specific requirements, such as national flags flown at the stern or registered flags flown at the bow/jackstaff, may apply depending on jurisdiction._
 
-Language & Writing
+## Language & Writing
 
 - Native Language: A wide range of languages are spoken so there is no major native language.
 - Native Script: Ethnian Alphabet (the de facto script to write all languages)
